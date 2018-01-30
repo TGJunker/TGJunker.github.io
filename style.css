@@ -1,9 +1,10 @@
-<style type="text/css">
-margin: 10px;
-padding: 25px;
+body{
+  background-color: gold;
+  margin:10px;
+  padding:25px;
+}
 p,
 li {fontsize: 12px;
     line-height: 14px;
     color: red;
   }
-</style>
