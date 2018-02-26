@@ -1,10 +1,10 @@
 body{
-  background-color: gold;
+  background-color: white;
   margin:10px;
   padding:25px;
 }
 p,
-li {fontsize: 12px;
+li {fontsize: 13px;
     line-height: 14px;
-    color: red;
+    color: black;
   }
